@@ -1,5 +1,7 @@
 # Top-10-Downloader-Android
 
+Image of app in source repo.
+
 This application simulates Apple’s app store where it will display the top downloaded applications by category. It displays the top 10 and top 25 most downloaded free and paid applications as well as the top 10 and 25 most downloaded songs. The application will download the data using an RSS feed provided by Apple which will be converted from an XML format. 
 
 The idea behind this application so to solve a fundamental problem when building phone applications which to execute and run the application without interfering with the rest of the phone’s usability. Most of the time if applications don’t address this issue, if the application requires long performing tasks, they will either have their processes and activities blocked if a user wants to do other tasks and will cease to execute, or they will block other application’s processes and activities on the phone which can freeze of the phone. 
