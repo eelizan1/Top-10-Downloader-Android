@@ -12,3 +12,5 @@ If we assume that long performing tasks need execute, then it is of best practic
 
 Although this application only downloads XML files which does not require a lot of processing time, it will demonstrates the fundamental solution to running long performing tasks which can very well be applied to any other applications fetching heavier data such as video streaming, music downloads, audiobooks etc. 
 
+![alt text](https://github.com/eelizan1/Top-10-Downloader-Android/blob/master/Top10Downloader.png)
+
